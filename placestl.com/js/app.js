@@ -197,7 +197,7 @@ var units = L.geoJson(null, {
     }
   }
 });
-$.getJSON("data/DOITT_THEATER_01_13SEPT2010.geojson", function (data) {
+$.getJSON("data/dummyunits.geojson", function (data) {
   units.addData(data);
   map.addLayer(unitLayer);
 });
