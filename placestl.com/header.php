@@ -19,7 +19,7 @@
     <meta name="theme-color" content="#000000">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>BootLeaf</title>
+    <title>PlaceSTL</title>
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
