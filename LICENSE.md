@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) James Johnson, Eleanor Tutt, Jenny Fung
-Copyright (c) Ryan O'Neil, Patrick Leonard
+Copyright (c) James Johnson, Eleanor Tutt, Jenny Fung, Patrick Leonard
+Copyright (c) Ryan O'Neil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
